@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Aakash
-🔭 I’m interested in Machine Learning and AI
-🌱 I’m currently learning Deep Learning
-👯 I’m looking to collaborate on CV, NLP projects
-📫 How to reach me: Email at aakash_ks@mfs.iitr.ac.in
+- 👋 Hi, I’m Aakash
+- 🔭 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on CV, NLP projects
+- 📫 How to reach me: Email at aakash_ks@mfs.iitr.ac.in
